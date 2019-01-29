@@ -1,0 +1,8 @@
+apple, mango, butter fruit
+orange, butter fruit, pineapple, orange
+guava, apple, pineapple
+banana, orange, mango
+grape, banana, apple
+apple
+orange
+grape
